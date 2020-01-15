@@ -1,0 +1,42 @@
+/* footer */
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+.page-footer {
+    background-color: black;
+}
+
+/* background pictures */
+/* #title {
+    background-image: url(../ramen.jpg);
+    background-repeat: no-repeat;
+}
+
+#about {
+    background-image: url(../land.jpg);
+    background-repeat: no-repeat;
+}
+
+#misc {
+    background-image: url(../);
+    background-repeat: no-repeat; */
+
+
+/* navabar */
+
+.nav-wrapper {
+    background-color: black;
+}
+
+/* text align center */
+
+.container {
+    text-align: center;
+}
