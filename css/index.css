@@ -13,6 +13,22 @@ body {
     background-color: black;
 }
 
+/* Ramen masuta Header */
+.Header {
+    font-family: 'Heebo Black', sans-serif;
+    font-weight: bolder;
+    color: black;
+}
+
+#Ramen {
+    margin-bottom: 0%;
+    width: auto;
+}
+
+#Masuta {
+    margin-top: 0%;
+}
+
 /* background pictures */
 #title {
  background-color: red;
