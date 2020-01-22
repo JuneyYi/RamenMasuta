@@ -14,19 +14,18 @@ body {
 }
 
 /* background pictures */
-/* #title {
-    background-image: url(../ramen.jpg);
-    background-repeat: no-repeat;
+#title {
+ background-color: red;
 }
 
 #about {
-    background-image: url(../land.jpg);
-    background-repeat: no-repeat;
+    background-color: blue;
 }
 
 #misc {
-    background-image: url(../);
-    background-repeat: no-repeat; */
+    background-color: brown;
+}
+
 
 
 /* navabar */
