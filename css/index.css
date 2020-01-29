@@ -1,16 +1,20 @@
-/* footer */
+
 body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    background-image: url('../wallpaperRamen.png'); 
+    image-rendering: auto;
   }
 
   main {
     flex: 1 0 auto;
   }
 
+/* footer */
 .page-footer {
     background-color: black;
+    padding-top: 0px;
 }
 
 /* Ramen masuta Header */
@@ -22,11 +26,14 @@ body {
 
 #Ramen {
     margin-bottom: 0%;
-    width: auto;
 }
 
 #Masuta {
     margin-top: 0%;
+}
+
+h1 {
+    margin-bottom: 2.8rem;
 }
 
 /* background pictures */
@@ -48,6 +55,8 @@ body {
 
 .nav-wrapper {
     background-color: black;
+    border-bottom: 10px;
+    border-bottom-color: white;
 }
 
 /* text align center */
@@ -55,3 +64,4 @@ body {
 .container {
     text-align: center;
 }
+
