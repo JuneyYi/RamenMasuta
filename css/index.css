@@ -3,11 +3,10 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    background-image: url('../wallpaperRamen.png'); 
-    image-rendering: auto;
+    /* background-image: url('../wallpaperRamen.png');  */
   }
 
-  main {
+main {
     flex: 1 0 auto;
   }
 
@@ -64,4 +63,3 @@ h1 {
 .container {
     text-align: center;
 }
-

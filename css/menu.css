@@ -5,3 +5,16 @@ h4 {
 p {
     text-align: center;
 }
+
+.divider {
+    height: 3px;
+    background-color: black;
+}
+
+h3 {
+    margin: 2rem 0 2rem 0;
+}
+
+.section {
+    padding-bottom: 3rem;
+}
